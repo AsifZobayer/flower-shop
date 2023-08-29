@@ -120,6 +120,10 @@ font-size: 20px;
 font-weight: 800;
 }
 
+.span_off_part{
+    color: #E55473;
+}
+
 .para_off_part{
     color: rgba(39, 39, 39, 0.60);
 font-size: 12px;
